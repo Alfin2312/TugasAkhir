@@ -11,6 +11,7 @@
     },
     "devDependencies": {
         "axios": "^0.21",
+<<<<<<< HEAD
         "bootstrap": "^4.0.0",
         "jquery": "^3.2",
         "laravel-mix": "^6.0.6",
@@ -26,5 +27,10 @@
     },
     "dependencies": {
         "turbolinks": "^5.2.0"
+=======
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14"
+>>>>>>> 960dee0f7084ae2b12490abb3932889ddb54fdec
     }
 }
